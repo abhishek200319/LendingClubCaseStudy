@@ -29,7 +29,7 @@ When a person applies for a loan, there are two types of decisions that could be
     available with the company (and thus in this dataset)
  ## Summary
  Following files has been inlcluded as a part of solutions:
- 1. READ.me file for Problem discriptions.
+ 1. README file for Problem discriptions.
  2. **adesh_abhishek.ipynb** ipython file for performing EDA.
  3. **abhishek_dixit_adesh_pathak.pdf** about the Analysis and Conclusions of EDA performed.
 
